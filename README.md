@@ -2,7 +2,7 @@
 
 # Requisitos
 
-- [X]  Aplicar o layout seguindo o figma fornecido;
+- [X]  [Aplicar o layout seguindo o figma fornecido](https://github.com/Ranbut/projeto1-globo.com/blob/main/layouts/Desktop.pdf);
 - [X]  Utilize a fonte **Encode Sans** na página. Como não é uma fonte padrão nos computadores, você terá que importá-la na página
     - Como fazer isso?
         1. Acesse [https://fonts.google.com/](https://fonts.google.com/)
@@ -23,5 +23,4 @@ Depois de muito trabalho e muito orgulho, você enviou o link do seu projeto par
 Isso aconteceu porque o conteúdo da página é muito grande e ela não estava preparada para ser visualizada em dispositivos móveis, colocando muita informação em pouco espaço.
 
 Neste bônus, o desafio é fazer com que a página se adapte para telas com resoluções menores, utilizando os conceitos aprendidos de *media query*.
-
-Segue Figma do layout mobile:
+[Segue Figma do layout mobile](https://github.com/Ranbut/projeto1-globo.com/blob/main/layouts/Mobile.pdf);
