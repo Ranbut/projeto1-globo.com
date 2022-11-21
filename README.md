@@ -1,6 +1,6 @@
 # [Driven Education](https://www.driven.com.br/) - Projeto 1 - Globo.com
 
-<img src="https://github.com/Ranbut/Projeto_04_parrotsCardGame/blob/master/assets/icon.png" alt="globo.com">
+<img src="https://github.com/Ranbut/projeto1-globo.com/blob/main/assets/globocom.png" alt="globo.com">
 
 [Acesse o site clicando aqui!](https://ranbut.github.io/projeto1-globo.com/);
 
