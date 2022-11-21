@@ -2,6 +2,8 @@
 
 <img src="https://github.com/Ranbut/projeto1-globo.com/blob/main/assets/globocom.png" alt="globo.com">
 
+Acesse o site por [aqui](https://ranbut.github.io/projeto1-globo.com/);
+
 # Requisitos
 
 - [X]  [Aplicar o layout seguindo o figma fornecido](https://github.com/Ranbut/projeto1-globo.com/blob/main/layouts/Desktop.pdf);
