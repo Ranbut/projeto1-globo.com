@@ -1,6 +1,6 @@
-<img src="https://github.com/Ranbut/projeto1-globo.com/blob/main/assets/globocom.png" alt="globo.com">
+# Projeto 1 - Globo.com
 
-# projeto1-globo.com
+<img src="https://github.com/Ranbut/projeto1-globo.com/blob/main/assets/globocom.png" alt="globo.com">
 
 # Requisitos
 
