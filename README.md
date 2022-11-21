@@ -1,8 +1,16 @@
 # [Driven Education](https://www.driven.com.br/) - Projeto 1 - Globo.com
 
-<img src="https://github.com/Ranbut/projeto1-globo.com/blob/main/assets/globocom.png" alt="globo.com">
+<img src="https://github.com/Ranbut/Projeto_04_parrotsCardGame/blob/master/assets/icon.png" alt="globo.com">
 
 [Acesse o site clicando aqui!](https://ranbut.github.io/projeto1-globo.com/);
+
+# Descrição
+
+Seu primeiro projeto será aplicar o layout de uma versão simplificada da home da [Globo.com](http://globo.com), utilizando HTML e CSS. Tente deixar sua página ao máximo parecida com o **layout fornecido**!
+
+**Importante**: não se baseie na página atual da [Globo.com](http://globo.com) e sim no layout que estamos fornecendo! Sempre tem muitas mudanças na página, além de que neste projeto modificamos algumas características da página para ficar mais alinhado com o que você já aprendeu 🙂
+
+Abaixo encontra-se uma imagem que exemplifica o layout da página, e em seguida um link para o layout no Figma com várias anotações para facilitar o desenvolvimento :)
 
 # Requisitos
 
